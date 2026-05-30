@@ -1,6 +1,16 @@
 # Turk Tili Academy 🇹🇷
 
-**Turk tili o'rganish uchun zamonaviy veb-platforma.**
+Turk tilini onlayn va samarali o'rganish uchun mo'ljallangan zamonaviy Full-Stack veb-platforma.
+
+🔗 **Jonli loyiha havolasi (Live Website):** [turk-tili-darslar.uz](https://turk-tili-darslar.uz)
+
+## ✨ Xususiyatlari (Features)
+
+- 📚 **Interaktiv darslar:** Turk tili grammatikasi va so'zlashuv qismlari.
+- 🔐 **Avtorizatsiya tizimi:** Foydalanuvchilar va talabalar uchun shaxsiy kabinet.
+- 📱 **Responsive dizayn:** Mobil qurilmalar va planshetlar uchun to'liq moslashtirilgan interfeys.
+- ⚡ **Tezkor va xavfsiz:** Eng so'nggi zamonaviy texnologiyalar yordamida optimallashtirilgan backend va frontend.
+- **hozirda dars materiyallari bo'lmagani sababli bir qancha xususiyatlari ishlatilmayabdi .darslar tayyor bo'lishi bilan albatda qo'shiladi**
 
 ## 🚀 Texnologiyalar
 
