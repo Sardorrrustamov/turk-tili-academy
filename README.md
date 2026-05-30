@@ -88,8 +88,4 @@ Yoki [Vercel](https://vercel.com) ga to'g'ridan-to'g'ri GitHub orqali ulang.
 
 ## 🌍 Til qo'llab-quvvatlash
 
-Platforma **O'zbek**, **Rus** va **Turk** tillarini qo'llab-quvvatlaydi.
-
-## 📄 Litsenziya
-
-MIT
+Plahttps://github.com/Sardorrrustamov/turk-tili-academy.gittforma **O'zbek**, **ingliz** ,**Rus** va **Turk** tillarini qo'llab-quvvatlaydi.
